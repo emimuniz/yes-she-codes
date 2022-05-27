@@ -5,4 +5,4 @@
 Projeto bancário para mergulhar no mundo da **programação funcional** com Clojure + Datomic!
 
 
-Desenvolvido por Emillyn Muniz (emillyn_muniz@hotmail.com).
+Desenvolvido por Emillyn Muniz (emimuniz - emillyn_muniz@hotmail.com).
